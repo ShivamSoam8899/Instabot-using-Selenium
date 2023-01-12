@@ -1,7 +1,10 @@
 # Instabot-using-Selenium
 Hey ,Guys.
-Welcome to th project,in this project i have automated insta using selenium(web scraping)
-to findout some of the queries about the food on instagram .
+A Simple instagram bot written in Python with Selenium to extract data about the food
+handles on instgram .
+It requires only username and password .
+It will search food handles account and extract the information about their
+followers,posts,likes,comments,captions etc.
 I have replaced my username and password with "Sampleusername" and "Password".
 If you need any help you can ping me anytime , i will try to response asap .
 
